@@ -1,0 +1,33 @@
+{
+  "name": "mythos.coeus.curiosity",
+  "version": "0.6.9",
+  "description": "Coeus' Curiosity - Strategic Data Discovery, Extraction & Remodelling; part of the Phoenix Mythos Suite",
+  "summary": "Coeus' Curiosity is a data discovery, extraction, & remodelling engine; tuned for EstiTrack ERP integration.",
+  "author": {
+    "name": "Josh Hopkins",
+    "email": "assumationspecialist@gmail.com",
+    "url": "http://www.linkedin.com/in/PhoenixSoul"
+  },
+  "keywords": [
+    "dBase",
+    "dbf",
+    "VFP",
+    "oledb",
+    "EstiTrack",
+    "phx",
+    "Phoenix Mythos",
+    "Coeus",
+    "Curiosity"
+  ],
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "agentkeepalive": "^2.2.0",
+    "commander": "^2.9.0",
+    "crc": "^3.4.3",
+    "curlrequest": "^1.0.1",
+    "edge": "^6.5.1",
+    "nano": "^6.2.0",
+    "request": "^2.79.0"
+  }
+}
