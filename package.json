@@ -1,26 +1,15 @@
 {
-  "name": "mythos.coeus.curiosity",
+  "name": "utilities-token-pattern-detector",
   "version": "0.6.9",
-  "description": "Coeus' Curiosity - Strategic Data Discovery, Extraction & Remodelling; part of the Phoenix Mythos Suite",
-  "summary": "Coeus' Curiosity is a data discovery, extraction, & remodelling engine; tuned for EstiTrack ERP integration.",
+  "description": "",
+  "summary": "",
   "author": {
-    "name": "Josh Hopkins",
-    "email": "assumationspecialist@gmail.com",
+    "name": "Joshua Hopkins",
+    "email": "PhxSol@gmail.com",
     "url": "http://www.linkedin.com/in/PhoenixSoul"
   },
-  "keywords": [
-    "dBase",
-    "dbf",
-    "VFP",
-    "oledb",
-    "EstiTrack",
-    "phx",
-    "Phoenix Mythos",
-    "Coeus",
-    "Curiosity"
-  ],
   "private": true,
-  "license": "UNLICENSED",
+  "license": "GNU GENERAL PUBLIC LICENSE",
   "dependencies": {
     "agentkeepalive": "^2.2.0",
     "commander": "^2.9.0",
