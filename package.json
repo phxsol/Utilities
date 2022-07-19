@@ -1,15 +1,7 @@
 {
-  "name": "utilities-token-pattern-detector",
+  "name": "Utilities-Token-Pattern-Detector",
   "version": "0.6.9",
-  "description": "",
-  "summary": "",
-  "author": {
-    "name": "Joshua Hopkins",
-    "email": "PhxSol@gmail.com",
-    "url": "http://www.linkedin.com/in/PhoenixSoul"
-  },
-  "private": true,
-  "license": "GNU GENERAL PUBLIC LICENSE",
+  "description": "Recursive Token Analysis Utility",
   "dependencies": {
     "agentkeepalive": "^2.2.0",
     "commander": "^2.9.0",
@@ -18,5 +10,17 @@
     "edge": "^6.5.1",
     "nano": "^6.2.0",
     "request": "^2.79.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phxsol/Utilities-Token-Pattern-Detector.git"
+  },
+  "keywords": [
+  ],
+  "author": "Joshua Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phxsol/Utilities-Token-Pattern-Detector/issues"
+  },
+  "homepage": "https://github.com/phxsol/Utilities-Token-Pattern-Detector#readme"
 }
